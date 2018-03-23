@@ -1,0 +1,8 @@
+E:\BizRun.NET\c#.net-programs\JsonProject\JsonProject\bin\Debug\JsonProject.exe.config
+E:\BizRun.NET\c#.net-programs\JsonProject\JsonProject\obj\Debug\JsonProject.csprojResolveAssemblyReference.cache
+E:\BizRun.NET\c#.net-programs\JsonProject\JsonProject\bin\Debug\JsonProject.exe
+E:\BizRun.NET\c#.net-programs\JsonProject\JsonProject\bin\Debug\JsonProject.pdb
+E:\BizRun.NET\c#.net-programs\JsonProject\JsonProject\bin\Debug\Newtonsoft.Json.dll
+E:\BizRun.NET\c#.net-programs\JsonProject\JsonProject\bin\Debug\Newtonsoft.Json.xml
+E:\BizRun.NET\c#.net-programs\JsonProject\JsonProject\obj\Debug\JsonProject.exe
+E:\BizRun.NET\c#.net-programs\JsonProject\JsonProject\obj\Debug\JsonProject.pdb
